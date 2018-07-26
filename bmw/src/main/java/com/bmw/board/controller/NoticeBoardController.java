@@ -8,7 +8,7 @@ public class NoticeBoardController {
 
 	@RequestMapping("/board/noticeBoard")
 	public String home() {
-		return "Hello, MVC!";
+		return "Hello, noticeBoard!";
 	}
 	
 }
